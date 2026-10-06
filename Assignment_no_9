@@ -26,7 +26,7 @@ print(f"Median: {median_val}")
 print(f"Sample Variance: {variance_val:.2f}")
 print(f"Sample Std Dev: {std_dev_val:.2f}\n")
 
-# 3. Correlation (Pearson and Spearman)
+# 3.Correlation (Pearson and Spearman)
 
 # Pearson correlation coefficient and p-value
 pearson_corr, p_val = stats.pearsonr(
